@@ -19,7 +19,7 @@ class Create extends Component {
     const state = this.state
     state[e.target.name] = e.target.value;
     this.setState(state);
-  }
+  };
 
   onSubmit = (e) => {
     e.preventDefault();
@@ -30,7 +30,7 @@ class Create extends Component {
       .then((result) => {
         this.props.history.push("/")
       });
-  }
+  };
 
   render() {
     const { name, address, city, phone, email } = this.state;
