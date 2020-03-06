@@ -1,6 +1,6 @@
-package com.djamware.react.repositories;
+package name.davidwbrown.react.repositories;
 
-import com.djamware.react.models.Contact;
+import name.davidwbrown.react.models.Contact;
 import org.springframework.data.repository.CrudRepository;
 
 public interface ContactRepository extends CrudRepository<Contact, String> {

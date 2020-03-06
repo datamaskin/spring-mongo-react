@@ -1,4 +1,4 @@
-package com.djamware.react.models;
+package name.davidwbrown.react.models;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

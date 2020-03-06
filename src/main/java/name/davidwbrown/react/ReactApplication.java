@@ -1,4 +1,4 @@
-package com.djamware.react;
+package name.davidwbrown.react;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

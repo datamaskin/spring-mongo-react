@@ -1,4 +1,4 @@
-package com.djamware.react;
+package name.davidwbrown.react;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,7 +1,7 @@
-package com.djamware.react.controllers;
+package name.davidwbrown.react.controllers;
 
-import com.djamware.react.models.Contact;
-import com.djamware.react.repositories.ContactRepository;
+import name.davidwbrown.react.models.Contact;
+import name.davidwbrown.react.repositories.ContactRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
